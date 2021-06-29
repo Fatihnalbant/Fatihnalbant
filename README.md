@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Linkledin profilime [buradan] ulaşabilirsiniz. (https://www.linkedin.com/in/fatih-nalbant-5b3b12a4/)
+Linkledin profilime [buradan ulaşabilirsiniz](https://www.linkedin.com/in/fatih-nalbant-5b3b12a4/).
