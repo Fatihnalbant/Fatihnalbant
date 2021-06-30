@@ -16,3 +16,7 @@ Here are some ideas to get you started:
 -->
 
 Linkledin profilime [buradan ulaşabilirsiniz](https://www.linkedin.com/in/fatih-nalbant-5b3b12a4/).
+
+
+Twitter profilime [buradan](https://www.linkedin.com/in/fatih-nalbant-5b3b12a4/) ulaşabilirsiniz.
+
