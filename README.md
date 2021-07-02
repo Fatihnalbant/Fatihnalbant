@@ -18,5 +18,5 @@ Here are some ideas to get you started:
 Linkledin profilime [buradan](https://www.linkedin.com/in/fatih-nalbant-5b3b12a4/) ulaşabilirsiniz.
 
 
-Twitter profilime [buradan](https://www.linkedin.com/in/fatih-nalbant-5b3b12a4/) ulaşabilirsiniz.
+Twitter profilime [buradan](https://twitter.com/fatihnalbnt) ulaşabilirsiniz.
 
